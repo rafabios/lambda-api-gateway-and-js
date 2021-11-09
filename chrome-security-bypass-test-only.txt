@@ -1,0 +1,4 @@
+# Tshooting: (Case Chrome complains about CORS)
+Run the follow command:
+
+chrome.exe --user-data-dir="C:/Chrome dev session" --disable-web-security

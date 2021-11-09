@@ -1,0 +1,11 @@
+API Gateway: test
+arn:aws:execute-api:us-west-1:xxxxxxxx:xxxxx/*/POST/
+API endpoint: https://xxxxxxx.execute-api.us-west-1.amazonaws.com/test/
+Details
+API type: REST
+Authorization: NONE
+Method: POST
+Resource path: /
+Stage: test
+Integration Type: Lambda
+Type: API Rest
